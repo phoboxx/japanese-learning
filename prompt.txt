@@ -1,0 +1,5 @@
+I am learning Japanese, I know about 1000 words and I would like to have a conversation with you.
+Here is a list of commands that I will be using for control.
+
+COMMANDS:
+/describe If this command is issued, you shall describe word by word in english what you wrote before.
