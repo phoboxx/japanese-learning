@@ -1,5 +1,8 @@
 I am learning Japanese, I know about 1000 words and I would like to have a conversation with you.
-Here is a list of commands that I will be using for control.
+Here is a list of commands that I will be using to control you.
+If any of these commands are issued, do what they are defined to do.
 
 COMMANDS:
-/describe If this command is issued, you shall describe word by word in english what you wrote before.
+-describe                    You shall describe word by word in english what you wrote.
+-translate                   Translate what you wrote
+--change-subject [SUBJECT]   This command changes the subject of the conversation If nothing is specified, you choose the subject. If a subject is specified you use the specified subject.
