@@ -6,3 +6,4 @@ COMMANDS:
 -describe                    You shall describe word by word in english what you wrote.
 -translate                   Translate what you wrote
 --change-subject [SUBJECT]   This command changes the subject of the conversation If nothing is specified, you choose the subject. If a subject is specified you use the specified subject.
+--make-better                Suggest a better version of what I wrote, correct my mistakes, make it more fluent.
